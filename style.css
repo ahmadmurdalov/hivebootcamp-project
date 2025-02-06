@@ -1,0 +1,150 @@
+.header{
+    font-size: 24px;
+    color: #f9faf9;
+    margin-top: 0px;
+    margin-left: 300px;
+    
+}
+.container{
+    background-color: #1f2937;
+    height: 300px;
+
+    
+}
+body{
+    margin: 0px;
+}
+
+.link{
+    display:inline-flex;
+    gap: 20px;
+    margin-left: 700px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.dec{text-decoration:none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.boxes{
+    display: flex;
+    justify-content:center;
+    gap: 400px;
+
+}
+.box{
+    width: 400px;
+    height:150px ;
+    margin-right: 400px;
+    margin-top: 60px;
+     background-color: #787f8f;
+     justify-content:center;
+
+}
+.place{
+    text-align: center;
+    padding: 85px;
+    line-height: 130px;
+}
+.text{
+    margin-left: 300px;
+}
+.mini{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+.big{
+font-size: 18px;
+color: #e5e7eb;
+}
+.info{
+    text-align: center;
+    margin: 20px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+.random{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.ran {
+    padding: 50px;
+    border: 2px solid #3882f6;
+    border-radius: 10px;
+    
+    
+}
+.buton{
+    padding-right: 40px;
+    padding-bottom: 7px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border: #3882f6;
+    
+}
+.subtext{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+.seccond-midle{
+    background-color: #e5e7eb;
+    height: 200px; 
+    margin-top: 30px;
+    
+}
+.bords{
+    display: flex;
+    justify-self:center;
+}
+.words{ 
+    margin: 0px;
+    font-size: 30px;
+    font-style:italic;
+    color: #1f2937; 
+}
+.last-midle{
+    height: 250px;
+    display: flex;
+    justify-self: center;
+      
+}
+.last{
+       height: 100px;
+    background-color: #3882f6;
+    margin-left:222px ;
+    margin-right: 222px;
+    margin-top: 20px;
+    display: flex;
+    justify-self: center;
+    border-radius: 10px;
+    
+    
+}
+.ast{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+  
+}
+.knopka{
+    border: 2px solid #ffffff ;
+    border-radius: 8px;
+    background-color: #3882f6;
+    color: #ffffff;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+.footer{
+    background-color: #1f2937;
+    height: 100px;
+    margin-top:20px ;
+
+}
